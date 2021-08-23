@@ -42,7 +42,7 @@ namespace Learning_GIt
 
             pappaGunni
 
-            app.UseAuthorization();
+            magic
 
             app.UseEndpoints(endpoints =>
             {
